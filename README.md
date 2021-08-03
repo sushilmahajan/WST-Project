@@ -22,8 +22,6 @@ This portal connects freshers with their seniors who are interested in selling t
 ![Alt text](public/images/env.png?raw=true "Title") 
 7. You will have to use your own crypto key & iv and also your own database credentials
 
--This app is hosted on heroku https://thevstore.herokuapp.com (Note: You can use AWS bucket for storing images permanently)
-
 ## How it Works
 1. User first has to register with valid mail id
 2. User can add products for sale or buy from available products
